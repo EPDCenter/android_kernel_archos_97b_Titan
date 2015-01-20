@@ -56,6 +56,10 @@ config MACH_RK30_PHONE_LOQUAT
 config MACH_RK30_PHONE_A22
         bool "RK30 smart phone a22 board"
 	
+
+config MACH_RK30_HD1
+        bool "RK30 HD1 board"
+
 config MACH_RK30_PHONE_PAD
         bool "RK30 phone pad board"
 	
